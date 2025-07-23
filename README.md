@@ -5,7 +5,7 @@
 ---
 
 ### ✨ About Me
-- 🔭 I’m working on improving my React skills with real-world projects like **myfirstapp**
+- 🔭 I’m working on improving my React skills with real-world projects like **Svarupa**
 - 🌱 I’m currently learning **Form validation, Pagination, React Hooks, and using multiple npm packages**
 - 📚 Always exploring new web technologies to grow as a developer
 - 🤝 I’m looking to collaborate on open-source and practice projects
