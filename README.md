@@ -21,13 +21,24 @@
 ---
 ---
 
-### 🚀 Projects
+---
 
-Here are a few projects I’m working on:
+### 🔥 Projects
 
-- [Svarupa](https://svarupa.org/) — A live project showcasing my skills.
+✅ **[Svarupa](https://svarupa.org/)** – *Vedic Digital Archive*  
+A multilingual digital archive of ancient Vedic scriptures with audio & text access.  
+**Tech:** ReactJS, Tailwind, RESTful APIs, JWT, Netlify
+
+✔ Modular component-driven UI  
+✔ Secure RBAC & API integration  
+✔ 95+ Lighthouse mobile usability score
+
+---
+
 - [myfirstapp](https://github.com/praannasriniva4/myfirstapp) — My first React app practicing forms, pagination, and hooks.
 - [challenge1](https://github.com/praannasriniva4/challenge1) — Learning project with JavaScript practice tasks.
+
+
 
 ### 📫 Connect with me
 - 📧 Email: prasannasrinivas6875@gmail.com
