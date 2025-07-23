@@ -19,6 +19,15 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
 
 ---
+---
+
+### 🚀 Projects
+
+Here are a few projects I’m working on:
+
+- [Svarupa](https://svarupa.org/) — A live project showcasing my skills.
+- [myfirstapp](https://github.com/praannasriniva4/myfirstapp) — My first React app practicing forms, pagination, and hooks.
+- [challenge1](https://github.com/praannasriniva4/challenge1) — Learning project with JavaScript practice tasks.
 
 ### 📫 Connect with me
 - 📧 Email: prasannasrinivas6875@gmail.com
